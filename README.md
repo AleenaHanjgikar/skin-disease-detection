@@ -18,3 +18,5 @@ An AI-based web app to predict skin diseases using deep learning models. It also
 - Machine Learning: TensorFlow
 - Database: MySQL
 - API: Gemini API for disease info
+
+<img width="917" height="478" alt="image" src="https://github.com/user-attachments/assets/0f45f67b-f46e-4527-bfd1-f486810c3196" />
