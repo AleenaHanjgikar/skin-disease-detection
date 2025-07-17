@@ -45,7 +45,6 @@ Result Page
 
 
 DETAILED DESIGN
-
 Flowchart of working of CNN Model:
 <img width="514" height="638" alt="image" src="https://github.com/user-attachments/assets/49b92eeb-1ea6-4656-9c36-cae53893383a" />
 
